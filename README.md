@@ -1,4 +1,6 @@
 # -Hello-World-
 
 ## **Project Title**
-This project is titled ==Hello World==
+This project is titled Hello World ⭐
+
+## **Description**
