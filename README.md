@@ -15,5 +15,5 @@ The goals of this project are to. . .
 - file two
 - file three
 
-### **Credits**
+### *Credits*
 Credit given to my coworkers who laughed at me while I worked on this and my instructor
